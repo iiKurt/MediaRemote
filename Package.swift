@@ -22,7 +22,7 @@ let package = Package(
 		),
 	],
     dependencies: [
-		.package(url: "https://github.com/PrivateFrameworks/ProtocolBuffer", .upToNextMinor(from: "0.1.0")),
+		.package(url: "https://github.com/iiKurt/ProtocolBuffer", .upToNextMinor(from: "0.1.1")),
     ],
 	targets: [
 		.target(
